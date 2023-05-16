@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HQIEGkGJC3DWquv57hQ5F6JVFfS6X4ycRLp19G8uy02qumSpzCrNzbdq7uq2KfEU8VFC/ggDc1TOzmhFbZA3Sw==",
+  "dgSpecHash": "1eGVJFrj+Bp3fXLYR6sKXgWDgIQ4wDysOSWgJsKEwu9deW4I1vsoBBX31fAcNo/i76k+OXRGw/ng6UUY/kfaCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RyC-92\\source\\repos\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+  "projectFilePath": "C:\\git-hub\\.net-maui-example\\MauiApp1\\MauiApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RyC-92\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\RyC-92\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
